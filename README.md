@@ -19,6 +19,11 @@ We are a diverse group of blockchain believers, tech geeks, and crypto aficionad
 - **Transparency**: We believe in open communication and regularly share updates and insights with our community.
 - **Passion**: Our love for blockchain technology drives us to continuously improve and innovate in our services.
 
+**Our Projects**
+- **0g:** [Node and Validator Instalation](https://github.com/val1gators/guides/blob/main/0g/installation-plus-validator.md), [Storage KV Installation](https://github.com/val1gators/guides/blob/main/0g/storagekv.md)
+- **CrossFi:** [Installation Guide](https://github.com/val1gators/guides/blob/main/crossfi/installation.md)
+- **Aligned:** [Installation Guide](https://github.com/val1gators/guides/blob/main/aligned/installation-guide.md), [Operator Installation](https://github.com/val1gators/guides/blob/main/aligned/operator-installation.md)
+
 Join us on our journey to decentralize the future, one block at a time! 🌍🔐
 
 Stay connected and follow our updates on [𝕏](https://x.com/val1gators) and [Discord](https://discord.gg/NqgWwWU8). Let's build a decentralized world together!
