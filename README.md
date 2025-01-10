@@ -20,6 +20,7 @@ We are a diverse group of blockchain believers, tech geeks, and crypto aficionad
 - **Passion**: Our love for blockchain technology drives us to continuously improve and innovate in our services.
 
 **Our Projects**
+- **Taiko:** [Node Instalation](https://github.com/val1gators/taiko-mainnet-node)
 - **0g:** [Node and Validator Instalation](https://github.com/val1gators/guides/blob/main/0g/installation-plus-validator.md), [Storage KV Installation](https://github.com/val1gators/guides/blob/main/0g/storagekv.md)
 - **CrossFi:** [Installation Guide](https://github.com/val1gators/guides/blob/main/crossfi/installation.md)
 - **Aligned:** [Installation Guide](https://github.com/val1gators/guides/blob/main/aligned/installation-guide.md), [Operator Installation](https://github.com/val1gators/guides/blob/main/aligned/operator-installation.md)
